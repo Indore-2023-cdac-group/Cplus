@@ -1,2 +1,1 @@
-# Cplus
-C++ notes
+add notes of c++
